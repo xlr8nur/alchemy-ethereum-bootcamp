@@ -31,6 +31,7 @@ npx hardhat
 > Create an empty hardhat.config.js
 Create contract, test and .env files
 
+```
 touch .env
 mkdir contracts
 touch contracts/Winner.sol
@@ -38,6 +39,6 @@ mkdir test
 touch test/winner.test.js
 Deploy the project
 npx hardhat run scripts/deploy.js
-
+```
 ## Create the winner event
 npx hardhat run scripts/createEvent.js

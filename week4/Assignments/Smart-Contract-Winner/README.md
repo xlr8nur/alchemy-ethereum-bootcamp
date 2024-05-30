@@ -15,7 +15,7 @@ contract Contract {
     }
 }
 ```
-# How do we possibly make it so the tx.origin (the EOA who originated the transaction) is not equal to the msg.sender? 🤔
+- How do we possibly make it so the tx.origin (the EOA who originated the transaction) is not equal to the msg.sender? 🤔 Let's start!
 
 ## Creating the project
 Create a Node project:

@@ -1,4 +1,4 @@
-### Alchemy University - Week 4 Task
+### Week 4 Assignment
 Your goal is simple! Emit the winner event on this smart contract on the Goerli testnet: https://goerli.etherscan.io/address/0xcF469d3BEB3Fc24cEe979eFf83BE33ed50988502#code
 
 - If you take a look at the Code tab in Etherscan, you'll see that the source code for this contract looks like this:

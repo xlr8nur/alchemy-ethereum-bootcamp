@@ -29,7 +29,7 @@ Create a Hardhat empty project
 
 npx hardhat
 > Create an empty hardhat.config.js
-Create contract, test and .env files
+> Create contract, test and .env files
 
 ```
 touch .env

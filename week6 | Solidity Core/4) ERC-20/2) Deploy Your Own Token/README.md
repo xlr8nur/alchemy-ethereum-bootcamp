@@ -62,7 +62,7 @@ For this guide and since Alchemy University is full of true Goofy Goobers, we wi
 
 ```solidity
 //SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.26;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 

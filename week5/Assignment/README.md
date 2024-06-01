@@ -121,7 +121,8 @@ Once you have filled in these fields, you can click `Deploy`!
 
 This should pop up a transaction request on the Apex Wallet widget:
 
-<img style="display: block; margin-left: auto; margin-right: auto;width: 50%;" src="../../img/escrowProject.png">
+<img width="491" alt="ssss" src="https://github.com/xlr8nur/alchemy-ethereum-bootcamp/assets/97341887/24a13f78-6a9f-449e-97a8-7ac4ec3b3ab3">
+
 
 Click `Send` to sign the transaction and broadcast it to your local network.
 

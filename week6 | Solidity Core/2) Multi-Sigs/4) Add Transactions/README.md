@@ -15,8 +15,6 @@ Now it's time we create a function to put our transactions into that storage!
 
 The transaction IDs should be zero-based. The first one being `0`, then `1`, `2`, and so on.
 
-kkkk
-
 
 ☝️ In the first `addTransaction`, the transaction #0 is added and the `transactionCount` becomes `1`.
 

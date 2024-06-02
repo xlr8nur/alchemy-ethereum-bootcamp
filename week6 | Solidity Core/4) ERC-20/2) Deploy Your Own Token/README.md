@@ -60,7 +60,7 @@ For this guide and since Alchemy University is full of true Goofy Goobers, we wi
 
 3. Open the newly-create .sol file and copy-paste the following:
 
-```soldiity
+```solidity
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 

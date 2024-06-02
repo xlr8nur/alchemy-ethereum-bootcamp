@@ -8,8 +8,6 @@ Let's create the storage variable for the confirmations before diving into the f
 
 Define a public `confirmations` mapping which maps the transaction id (`uint`) to an owner (`address`) to whether or not they have confirmed the transaction (`bool`).
 
-kkkkkkkkkk
-
 ☝️ A transaction id maps to a mapping of address to booleans.
 
 The first transaction (#0) maps to two addresses, one of which has confirmed the transaction. The second transaction (#1) maps to two addresses where both have confirmed the transaction.

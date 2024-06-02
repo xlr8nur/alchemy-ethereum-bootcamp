@@ -29,5 +29,3 @@ Here are a few challenge suggestions:
 
 Figma: [Token Indexer - Design](https://www.figma.com/file/cQX1sBfMwsI4W0RRHo9n91/Token-Indexer?node-id=0%3A1&t=yT2m4IAiRKL12gex-1)
 
-
-kkkkkkkkkkkkk

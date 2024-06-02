@@ -18,7 +18,6 @@ When this wallet is deployed it will be configured with the owners addresses and
    
 4. Store the two arguments in their respective state variables created above.
 
-kkkk
 
 ## 🧪 Run Test
 

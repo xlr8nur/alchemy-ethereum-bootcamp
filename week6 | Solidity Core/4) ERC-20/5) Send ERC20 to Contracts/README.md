@@ -66,11 +66,8 @@ contract ERC20 {
 
 Give `approve/transferFrom` a shot by attempting the Bucket challenge!
 
-kkkkkkkkkk
-
 No, not that [Bucket Challenge](https://en.wikipedia.org/wiki/Ice_Bucket_Challenge) 😅. This one:
 
-kkkkkkkkkk
 
 ## 🏁 Your Goal: Emit Winner 🏁
 

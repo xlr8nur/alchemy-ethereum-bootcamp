@@ -2,6 +2,7 @@
 
 In this guide, we'll be setting up an ERC-20 token on the Goerli test network - start thinking what name you would like to name your very own ERC-20!
 
+
 ## Guide Requirements
 
 - [Hardhat](https://hardhat.org/): Hardhat is an Ethereum development platform that provides all the tools needed to build, debug and deploy smart contracts.
@@ -62,7 +63,7 @@ For this guide and since Alchemy University is full of true Goofy Goobers, we wi
 
 ```solidity
 //SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.26;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
@@ -119,7 +120,6 @@ main()
 2. Your contract will be compiled and deployed to the Goerli network! You should see something similar to this in your terminal output:
 formatEther
 
-kkkkkkkkkkk
 
 1. Go to https://goerli.etherscan.io/ and input your outputted Token address to see your deployed ERC-20 contract on Goerli!
 Now it's time to have the real fun! Send some of your new tokens to your friends and family, stimulate an economy - create the Bitcoin/Ethereum of the future! In this guide, you deployed your own ERC-20 token on Goerli using the OpenZeppelin ERC20 standard - great job!

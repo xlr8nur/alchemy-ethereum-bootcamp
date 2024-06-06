@@ -1,0 +1,30 @@
+{
+    "name": "nft-marketplace",
+    "private": true,
+    "version": "1.0.0",
+    "description": "",
+    "main": "package.json",
+    "author": "xlr8nur@protonmail.com>",
+    "license": "UNLICENSED",
+    "scripts": {
+      "start": "sanity start",
+      "build": "sanity build"
+    },
+    "keywords": [
+      "sanity"
+    ],
+    "dependencies": {
+      "@sanity/base": "^2.36.2",
+      "@sanity/core": "^2.36.2",
+      "@sanity/default-layout": "^2.36.2",
+      "@sanity/default-login": "^2.36.2",
+      "@sanity/desk-tool": "^2.36.2",
+      "@sanity/vision": "^3.45.0",
+      "prop-types": "^15.8.1",
+      "react": "^18.3.1",
+      "react-dom": "^18.3.1",
+      "react-icons": "^5.2.1",
+      "styled-components": "^6.1.11"
+    },
+    "devDependencies": {}
+  }
